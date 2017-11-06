@@ -1,16 +1,12 @@
-body{
-  background-color: red;
-}
 h1{
-  font-family: Times;
-  color: white;
+font-family: Arial;
+color: white;
 }
 h3{
-  font-family: Times;
-  color: white;
+font-family: Times;
+color: black;
 }
 p{
 font-family: Times;
-color: white;
-background-color:navy;
+color: black;
 }
