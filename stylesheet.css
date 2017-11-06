@@ -1,12 +1,14 @@
 h1{
-  font-family: Times
-  color: navy
+  font-family: Times;
+  color: navy;
 }
 h3{
-  font-family: Times
-  color: navy
+  font-family: Times;
+  color: white;
+  background-color:navy;
 }
 p{
-font-family: Times
-color: navy
+font-family: Times;
+color: white;
+background-color:navy;
 }
