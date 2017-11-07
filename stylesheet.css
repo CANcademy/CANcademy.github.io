@@ -1,12 +1,15 @@
 h1{
-font-family: Arial;
+font-family: Times;
 color: white;
 }
 h3{
 font-family: Times;
-color: black;
+color: white;
 }
 p{
 font-family: Times;
-color: black;
+color: white;
+}
+body{
+  background-color: Blue;
 }
