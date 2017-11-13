@@ -1,5 +1,5 @@
 body{
-  font-family:Arial;
-  color:white;
-  background-color:blue;
+  font-family:Arial !important; /* Reference for !important https://www.smashingmagazine.com/2010/11/the-important-css-declaration-how-and-when-to-use-it/ */
+  color:white !important;
+  background-color:blue !important;
 }
